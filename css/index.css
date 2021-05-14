@@ -1,0 +1,23 @@
+body{
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+}
+
+.navbarck {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0;
+    border: 1px solid transparent;
+}
+a:hover{
+	border: 2px solid black;
+}
+a.active{
+	border: 2px dotted black;
+}
+.email{
+	background-color: black;
+	color: white;
+}
+
